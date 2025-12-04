@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+nltk
+scikit-learn
+plotly
+wordcloud
+PyPDF2
+reportlab
+requests
+openpyxl
